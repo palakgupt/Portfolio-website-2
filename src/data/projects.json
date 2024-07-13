@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Blood Bank Project",
+    "imageSrc": "projects/project1.jpg",
+    "description": "This is a project made to improve the efficiency of blood donations.",
+    "skills": ["React.js", "MongoDB", "Node.js"]
+  },
+  {
+    "title": "Job Finder App",
+    "imageSrc": "projects/project2.jpg",
+    "description": "Deveolped a dynamic and responsive job finder application",
+    "skills": ["React", "JavaScript", "HTML", "CSS"]
+  },
+  {
+    "title": "Blog Website",
+    "imageSrc": "projects/project3.jpg",
+    "description": "This is a project  developed and implemented to help user to share content and manage posts and engage with users .",
+    "skills": ["Python", "Django", "HTML","CSS"]
+  }
+]

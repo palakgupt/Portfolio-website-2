@@ -1,0 +1,12 @@
+[
+  {
+    "role": "Professional Training",
+    "organisation": "Softpro India pvt.Ltd ",
+    "startDate": "Feb, 2024",
+    "endDate": "May,2024",
+    "experiences": ["Developed and implemented a Blog Website project using skill : Python, Django ,HTML ,CSS and JavaScript",
+     "It allow user for the development of robust and scalable platform to share content, manage posts and engage with users."],
+    "imageSrc": "history/sft.jpg"
+  }
+
+]
